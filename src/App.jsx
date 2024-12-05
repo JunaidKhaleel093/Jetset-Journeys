@@ -90,6 +90,3 @@ function App() {
 }
 
 export default App;
-
-// Add logo
-// In blog section add images 
