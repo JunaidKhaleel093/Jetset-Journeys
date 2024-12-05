@@ -7,7 +7,7 @@ JetSet-Journey is a vibrant travel blog app designed to inspire wanderlust and p
 🚀 Fast Navigation: Intuitive navigation makes it easy to explore various blog categories, including Tech, Anime, and Food.<br>
 📸 Image-Rich Content: Posts include visually stunning images to enhance the storytelling experience.<br>
 🚧 Version Control: Maintained through Git for effective collaboration and history tracking.<br>
-⚡ Deployment: The blog is live and accessible via GitHub Pages and vercel.
+⚡ Deployment: The blog is live and accessible via GitHub Pages and Vercel.
 
 ## 🛠 Technologies Used
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/> +
